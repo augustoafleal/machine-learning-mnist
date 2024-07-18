@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#1E88E5"               # Azul intenso para destacar elementos primários
+backgroundColor="#E3F2FD"            # Azul claro para o fundo
+secondaryBackgroundColor="#BBDEFB"   # Azul um pouco mais escuro para elementos secundários
+textColor="#212121"                  # Preto escuro para o texto para boa legibilidade
+font="sans serif"                    # Fonte sem serifa para um visual limpo e moderno

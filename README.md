@@ -1,7 +1,7 @@
 # MNIST Digit Recognition with Machine Learning
 Digit recognition project using CNN (Convolutional Neural Networks) and KNN (K-Nearest Neighbors) models.
 
-The models are used to recognize handwritten digits using the MNIST dataset, and it can be viewed on Streamlit:
+The models are used to recognize handwritten digits using the MNIST dataset, and it can be viewed on [Streamlit app](https://aafl-machine-learning-mnist.streamlit.app/)
 
 ## MNIST Dataset
 The MNIST dataset is widely used in the field of image recognition, containing 60,000 training images and 10,000 test images of digits from 0 to 9.
